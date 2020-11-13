@@ -16,7 +16,7 @@ jobs:
 # documented at https://circleci.com/docs/2.0/circleci-images/
 # - images: circleci/postgres:9.4
 
-working_directory: ~/repo
+working_directory: ~/GitHub
 
 steps:
   - checkout
