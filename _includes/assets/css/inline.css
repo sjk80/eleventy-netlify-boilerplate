@@ -1,7 +1,7 @@
 :root {
 	--primary: green;
 	--secondary: white;
-	--background: green;
+	--background: white;
 }
 
 *, *:before, *:after {
@@ -64,7 +64,7 @@ main > article :first-child {
 pre {
 	font-size: 14px;
 	direction: ltr;
-	text-align: left;
+	text-align: right;
 	white-space: pre;
 	word-spacing: normal;
 	word-break: normal;
